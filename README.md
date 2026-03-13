@@ -38,7 +38,6 @@ AI-Resume-Analyzer
 ├── app.py
 ├── skills.py
 ├── requirements.txt
-├── README.md
 └── screenshots
       ├── upload.png
       ├── skills.png

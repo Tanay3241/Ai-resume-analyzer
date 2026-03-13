@@ -122,7 +122,7 @@ The system compares resume skills with the job description and calculates:
 Example output:
 
 ```
-Match Score: 72%
+Match Score: 75%
 ```
 
 Missing Skills:
